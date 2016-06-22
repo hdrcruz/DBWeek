@@ -1,0 +1,2 @@
+$HADOOP_HOME/share/hadoop/hadoop-common-2.7.0.jar:$HADOOP_HOME/share/hadoop/mapreduce/hadoop-map-reduce-client-core-2.7.0.jar:
+$HADOOP_HOME/share/hadoop/common/lib/commons-cli-1.2.jar:
